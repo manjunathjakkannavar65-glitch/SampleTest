@@ -10,6 +10,7 @@ public class CreateOrgTest {
 	@Test
 	public void modifyorgTest() {
 		System.out.println("executed modifyTest");
+		System.out.println("executed modifyTest");
 	}
 
 }
